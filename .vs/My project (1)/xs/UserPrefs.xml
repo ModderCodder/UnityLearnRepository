@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Items/ItemScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Inventory/InventoryScript.cs" Line="27" Column="49" />
+      <File FileName="Assets/Scripts/Inventory/InventoryItem.cs" />
+      <File FileName="Assets/Scripts/Items/Item.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Inventory/InventorySlot.cs" />
+      <File FileName="Assets/Scripts/Items/ItemScript.cs" Line="46" Column="5" />
+      <File FileName="Assets/Scripts/Inventory/InventoryManager.cs" />
+      <File FileName="Assets/Scripts/Items/Chest/ChestScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemyScripts" expanded="True" />
+                <Node name="Inventory" expanded="True" />
+                <Node name="Items" expanded="True">
+                  <Node name="Chest" expanded="True" />
+                  <Node name="ItemScript.cs" selected="True" />
+                </Node>
+                <Node name="WeaponScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="038c1381-da83-41ec-8e82-5d1e5228c5f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
